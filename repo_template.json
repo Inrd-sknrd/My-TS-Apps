@@ -1,20 +1,14 @@
 {
     "name": "lnrd_sknrd's repo",
-    "subtitle": "Essential TS apps",
     "description": "Here are some TrollStore apps featured by me",
-    "iconURL": "LINK_TO_IMAGE.png",
-    "headerURL": "LINK_TO_IMAGE.png",
-    "website": "YOUR_WEBSITE_URL",
-    "tintColor": "#F54F32",
-    "featuredApps": [],
     "apps": [
         {
-            "name": "NiceBattery",
+            "name": "AppStore++",
             "bundleIdentifier": "com.niceios.Battery.Battery",
-            "developerName": "NiceiOS",
+            "developerName": "CokePokes",
             "subtitle": "View your battery stats",
-            "localizedDescription": "LONG_APP_DESCRIPTION",
-            "iconURL": "LINK_TO_ICON.png",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/Inrd-sknrd/My-TS-Apps/blob/main/icons/ItunesArtwork%402x.jpg",
             "tintColor": "#F54F32",
             "screenshotURLs": [
                 "LINK_TO_SCREENSHOT_1.png",
@@ -22,11 +16,11 @@
             ],
             "versions": [
                 {
-                  "version": "APP.VERSION",
-                  "date": "YYYY-MM-DD",
-                  "localizedDescription": "LONG_APP_DESCRIPTION_OR_CHANGELOG",
-                  "downloadURL": "https://drive.google.com/file/d/1shdYUYZR3Nat1iDhkE8WgxOy6cSa61vw/view?usp=sharing",
-                  "size": APP_SIZE_IN_BYTES_INT,
+                  "version": "1.0.3",
+                  "date": "2024-06-02",
+                  "localizedDescription": "",
+                  "downloadURL": "https://github.com/Inrd-sknrd/My-TS-Apps/releases/download/IPA/AppStore++_1.0.3.tipa",
+                  "size": 16.8,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
                 }
