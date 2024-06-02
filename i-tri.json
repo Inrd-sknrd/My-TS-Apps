@@ -1,0 +1,36 @@
+{
+    "name": "Lnrd Sknrd's Repo",
+    "subtitle": "My test repo",
+    "description": "I suck at coding",
+    "iconURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+    "website": "",
+    "tintColor": "#F54F32",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "AppStore++",
+            "bundleIdentifier": "com.cokepokes.AppStorePlus",
+            "developerName": "AppStorePlus",
+            "subtitle": "idk.",
+            "localizedDescription": "idk",
+            "iconURL": "https://github.com/Inrd-sknrd/My-TS-Apps/blob/597aafd1494c8c6ec682f8af2d90befecea9ddc8/icons/ItunesArtwork%402x.jpg",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "1.0.3",
+                  "date": "2024-06-02",
+                  "localizedDescription": "Downgrade your apps!",
+                  "downloadURL": "https://github.com/Inrd-sknrd/My-TS-Apps/releases/download/IPA/AppStore++_1.0.3.tipa",
+                  "size": 18 227,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
